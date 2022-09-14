@@ -1,0 +1,45 @@
+img{
+	width:100px;
+    height: 100px;
+	padding:20px;
+	margin:20px;
+}
+input{
+	width:300px;
+	height:40px;
+	border-radius:6px;
+	border-width:0.5px;
+	border-color:#C0C0C0;
+	background-color:#F5F5F5;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 65%;
+}
+body{
+	align-content: center;
+	border-style:solid;
+	border-width:0.5px;
+	border-color:#C0C0C0;
+	border-radius:6px;
+	width:400px;
+	height: 600px;
+	background-color:white;
+	font-family: verdana;
+}
+button{
+	height:40px;
+	width:300px;
+	background-color:#DC143C;
+	font-weight:bold;
+	border-radius:5px;
+	border-color:#DC143C;
+	margin-top:10px;
+	color:white;
+	font-family:verdana;
+}
+a{
+	color: black;
+	font-family: verdana;
+}
+html{
+	background-color:#F5F5F5;
+}
